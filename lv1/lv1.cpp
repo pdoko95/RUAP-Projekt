@@ -6,7 +6,9 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	printf("Pozdrav iz aplikacije od Petar Doko R3590");
+
+	printf("Pozdrav iz aplikacije od Petar Doko");
+
 	return 0;
 }
 
